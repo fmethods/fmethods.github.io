@@ -1,0 +1,121 @@
+
+                     SYNT 2015 - Call For Papers
+
+                      4th Workshop on Synthesis
+
+                   San Francisco, CA, USA, July 18, 2015
+
+		       co-located with CAV 2015
+
+                http://formal.epfl.ch/synt/2015/index.html        
+
+----------------------------------------------------------------------
+
+The workshop aims to bring together researchers interested
+in the broad area of synthesis of computing systems. The
+workshop aims to foster the development of frontier
+techniques in automating the development of computing
+systems and is inclusive in its interpretation of the term
+synthesis:
+
+* Contributions of interest may include algorithms,
+complexity and decidability analysis, as well as
+reproducible heuristics, implemented tools, and experimental
+evaluation.
+
+* Application domains include software, hardware, embedded,
+and cyberphysical systems. Computation models include
+functional, reactive, hybrid and timed systems.
+Identifying, formalizing, and evaluating synthesis in
+particular application domains is encouraged.
+
+* Of interest are both approaches that explore alternative
+development methods and approaches that improve upon the
+automation of design, compilation, and optimization
+techniques currently in widespread use.  
+
+* All appropriate underlying methods are of interest,
+including above formal methods and techniques that build
+upon computer-aided verification, but also machine learning
+techniques. All formalizable forms of specifications of
+potential practical interest are considered, including
+contracts, temporal logic specifications, quantitative
+objectives, partial systems, and input/output examples.
+
+* Of great interest is understanding and making productive use of
+relationships between synthesis and related topics such as repair,
+fault localization, testing, discovery of inductive invariants,
+parameter optimization, constraints solving, theorem proving
+(including SMT, superposition-based, inductive, and higher-order
+theorem proving). 
+ 
+----------------------------------------------------------------------
+
+Submitted papers must be original and unpublished. Papers accepted
+for presentation at the workshop appeared in previous years in the Electronic 
+Proceedings in Theoretical Computer Science series; hence,
+submissions must be prepared in LaTeX using the EPTCS macro
+package. Submitted papers should be 4 to 16 
+pages long in EPTCS style excluding references; within those page
+limits the authors should use as many pages as is appropriate for
+their contribution. 
+
+Extended versions of selected papers are expected to appear in a
+special issue of the journal Acta Informatica.  
+
+----------------------------------------------------------------------
+
+SYNT 2015 program will include:
+
+    Report on Syntax-Guided Synthesis (SyGuS 2015) Competition, 
+      presented by Dana Fisman, University of Pennsylvania
+    Report on Reactive Synthesis (SYNTCOMP 2015) Competition, 
+      presented by Swen Jacobs, Saarland University
+    Invited talks:
+       Sumit Gulwani, Microsoft Research
+       Aditya Nori, Microsoft Research
+
+----------------------------------------------------------------------
+Important dates:
+
+Paper submission: May 1, 2015 (extended)
+Notification of Acceptance/Rejection:  June 2, 2015
+Workshop Early Registration Deadline: June 10, 2015
+Final version: June 19, 2015
+Workshop: July 18, 2015
+
+----------------------------------------------------------------------
+
+Program Committee:
+
+    Pavol Cerny, University of Colorado Boulder (chair)
+    Colin de la Higuera, Nantes University
+    Rüdiger Ehlers, University of Bremen
+    Bernd Finkbeiner, Saarland University
+    Dana Fisman, University of Pennsylvania
+    Carlo A. Furia, ETH Zurich
+    Barbara Jobstmann, EPFL
+    Viktor Kuncak, EPFL (chair)
+    Daniel Neider, UIUC
+    Madhusudan Parthasarathy, UIUC (chair)
+    Doron Peled, Bar Ilan University
+    Ingo Pill, TU Graz
+    Ruzica Piskac, Yale
+    Arjun Radhakrishna, University of Pennsylvania
+    Leonid Ryzhyk, Carnegie Mellon University
+    Sven Schewe, University of Liverpool
+    Ute Schmid, University of Bamberg
+    Johann Schumann, SGT, Inc/NASA Ames
+    Rishabh Singh, Microsoft Research
+    Douglas Smith, Kestrel Institute
+    Armando Solar-Lezama, MIT
+    Eran Yahav, Technion
+    Steve Zdancewic, University of Pennsylvania
+
+
+----------------------------------------------------------------------
+
+Sponsorship:
+
+We are pleased to confirm sponsorship from the US NSF project ExCAPE.  
+
